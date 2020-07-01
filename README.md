@@ -84,7 +84,7 @@
 </p>
 
         <h2 id="recipe_2">Recipe #2: Strawberries and Cream</h2>
-        <img src="https://www.kasandbox.org/programming-images/food/strawberries.png"height="150" >
+        <img src="https://www.kasandbox.org/programming-images/food/strawberries.png "height="150" >
         <ul>
             <li>Time: 20 minutes</li>
             <li>Serves: 4 </li>
@@ -129,7 +129,7 @@
         
         
      <h2 id="recipe_3">Recipe #3: Lemon Shrimp Pasta</h2>
-        <img src="https://www.kasandbox.org/programming-images/food/pasta.png"height="150" >
+        <img src="https://www.kasandbox.org/programming-images/food/pasta.png" height="150" >
         <ul>
             <li>Time: 40 minutes</li>
             <li>Serves: 4 </li>
@@ -192,8 +192,8 @@
         <strong>Step 4:</strong> Add white wine and capers, lemon zest and juice from 2 lemons.<br>
         <strong>Step 5:</strong> While cooking the chicken and veggies, boil water seasoned with salt and cook spaghetti for 7-10 minutes until al dente. <br>
         <strong>Step 6:</strong>Add spaghetti to the lemon wine sauce, adding pasta water as needed to maintain moisture.<br>
-        <strong>Step 8:</strong>Fry marinated shrimp in a separate pan, then add to pasta.
-        <strong>Step 7:</strong>Season with salt and pepper, add parsley and enjoy!
+        <strong>Step 7:</strong>Fry marinated shrimp in a separate pan, then add to pasta.<br>
+        <strong>Step 8:</strong>Season with salt and pepper, add parsley and enjoy!
 </p>
 
     <p><em>Source: Mama's head </em>
