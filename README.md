@@ -84,7 +84,7 @@
 </p>
 
         <h2 id="recipe_2">Recipe #2: Strawberries and Cream</h2>
-        <img src="https://www.kasandbox.org/programming-images/food/strawberries.png "height="150" >
+        <img src="https://www.kasandbox.org/programming-images/food/strawberries.png" height="150" >
         <ul>
             <li>Time: 20 minutes</li>
             <li>Serves: 4 </li>
